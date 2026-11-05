@@ -1,0 +1,5 @@
+# Pune aici portofelele Solana ale traderilor de pe Fomo pe care vrei sa-i urmaresti.
+# O linie per trader: ADRESA, apoi un spatiu si un nume (numele e optional).
+# Liniile care incep cu # sunt ignorate. Exemplu (sterge # din fata ca sa-l activezi):
+#
+# 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU  TraderTop1
