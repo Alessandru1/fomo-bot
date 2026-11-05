@@ -2,4 +2,13 @@
 # O linie per trader: ADRESA, apoi un spatiu si un nume (numele e optional).
 # Liniile care incep cu # sunt ignorate. Exemplu (sterge # din fata ca sa-l activezi):
 #
-# 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU  TraderTop1
+# DFZYHaTZiR…2iyB2Vmj  TraderTop1
+# 2heJbC32Tp…Dm6LDogF  UniPCS
+# 5DBkonys2H…fxjJgzvy  end
+# GRP6a4VV5F…4RKzkKCX  Panceramic
+# 8PNdtcmjZG…jra5pHhc  sama
+# 6tN4BEHcYT…2pe88NWw  erik
+# tAwv75TULE…b3qo8VXY  kanye
+# 9VJrQn13tx…R5RabArS  ShiCoin
+# 2Lp2JUex2o…JZv6FuTY  Lucas
+# HP2ZzCnMP8…AUvQMsqL  bandezz
